@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=C7W4yJV_lFo&t
 - Nodemcu Esp32
 - Display TFT SPI 1.44''
 - Cables
+
+## Librerias
+
+Desde el gestor de librerias instalar las librerias "Adafruit_GFX" y "TFT_ILI9163C"
